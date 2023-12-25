@@ -1,12 +1,6 @@
 #include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-//Complete the following function.
-
 
 void calculate_the_maximum(int n, int k) {
-  //Write your code here.
   int and=0,or=0,xor=0;
  for(int i = 1;i<=n;i++)
  {
